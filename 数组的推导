@@ -1,4 +1,4 @@
-# -tyro#include<stdio.h>
+#include<stdio.h>
 #define N 110
 
 int b[N];
